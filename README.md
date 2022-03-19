@@ -1,7 +1,3 @@
----
-theme: cyanosis
----
-
 ### 相关概念
 
 1. http的痛点
